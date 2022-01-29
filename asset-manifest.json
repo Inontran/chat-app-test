@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.63c7d57c.css",
-    "main.js": "./static/js/main.386cfcfe.js",
-    "static/js/787.ace37745.chunk.js": "./static/js/787.ace37745.chunk.js",
-    "static/media/telegram.svg": "./static/media/telegram.feb915a8db6c4550c841166e4dc1524c.svg",
-    "index.html": "./index.html",
-    "main.63c7d57c.css.map": "./static/css/main.63c7d57c.css.map",
-    "main.386cfcfe.js.map": "./static/js/main.386cfcfe.js.map",
-    "787.ace37745.chunk.js.map": "./static/js/787.ace37745.chunk.js.map"
+    "main.css": "/chat-app-test/static/css/main.63c7d57c.css",
+    "main.js": "/chat-app-test/static/js/main.1367d021.js",
+    "static/js/787.ace37745.chunk.js": "/chat-app-test/static/js/787.ace37745.chunk.js",
+    "static/media/telegram.svg": "/chat-app-test/static/media/telegram.feb915a8db6c4550c841166e4dc1524c.svg",
+    "index.html": "/chat-app-test/index.html",
+    "main.63c7d57c.css.map": "/chat-app-test/static/css/main.63c7d57c.css.map",
+    "main.1367d021.js.map": "/chat-app-test/static/js/main.1367d021.js.map",
+    "787.ace37745.chunk.js.map": "/chat-app-test/static/js/787.ace37745.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63c7d57c.css",
-    "static/js/main.386cfcfe.js"
+    "static/js/main.1367d021.js"
   ]
 }

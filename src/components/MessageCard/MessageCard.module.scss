@@ -1,0 +1,38 @@
+.MessageCard {
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #212529;
+}
+
+.Header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.MessangerIcon {
+  max-width: 20px;
+  margin-right: 10px;
+}
+
+.MessangerType {
+  text-transform: uppercase;
+}
+
+.ChatName {
+  font-weight: 700;
+  margin-bottom: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.Time {
+  font-size: 12px;
+  line-height: 1;
+  margin-left: auto;
+}
+
+.Name {
+  font-style: italic;
+}
